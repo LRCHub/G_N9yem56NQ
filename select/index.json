@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Take Two",
+  "base_artist": "BTS",
+  "createdAt": "2026-03-25T14:13:33.729617Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If It Don't Take Two",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/01_If_It_Don't_Take_Two_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Two And Pass",
+      "artist": "Gang Starr",
+      "has_synced": true,
+      "path": "select/02_Take_Two_And_Pass_Gang_Starr.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Two Placebos And Call Me Lame",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/03_Take_Two_Placebos_And_Call_Me_Lame_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It Only Take Two To tango",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/04_It_Only_Take_Two_To_tango_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hurt (take two)",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/05_Hurt_(take_two)_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Two",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/06_Take_Two_BTS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Two Placebos And Call",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/07_Take_Two_Placebos_And_Call_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Buy One, Take Two",
+      "artist": "Grin Department",
+      "has_synced": false,
+      "path": "select/08_Buy_One,_Take_Two_Grin_Department.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take Two",
+      "artist": "Carmen McRae with The Dave Brubeck Quartet",
+      "has_synced": true,
+      "path": "select/09_Take_Two_Carmen_McRae_with_The_Dave_Brubeck_Quartet.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Two",
+      "artist": "L'Rain",
+      "has_synced": false,
+      "path": "select/10_Take_Two_L'Rain.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If It Don't Take Two",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/11_If_It_Don't_Take_Two_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take Two Placebos And Call Me Lame",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/12_Take_Two_Placebos_And_Call_Me_Lame_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If It Don't Take Two [Shania Vocal Mix]",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/13_If_It_Don't_Take_Two_[Shania_Vocal_Mix]_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Buy One, Take Two",
+      "artist": "Grin Department",
+      "has_synced": true,
+      "path": "select/14_Buy_One,_Take_Two_Grin_Department.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "If It Don't Take Two (Shania Vocal Mix)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/15_If_It_Don't_Take_Two_(Shania_Vocal_Mix)_Shania_Twain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take Two",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_Take_Two_BTS.txt"
+    }
+  ]
+}
